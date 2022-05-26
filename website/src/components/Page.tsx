@@ -1,7 +1,7 @@
 import { Header } from '.'
 import React from 'react'
 import Head from 'next/head'
-import { GlobalStyle } from '../style';
+import { GlobalStyle } from '../style'
 
 export function Page({ children, title }: { children: React.ReactElement; title?: string }) {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Product } from '../controller'
+import { Product } from '../api'
 import { Section } from '../components'
 import { css } from 'styled-components'
 import { HeroHeadline } from '../components/HeroHeadline'
